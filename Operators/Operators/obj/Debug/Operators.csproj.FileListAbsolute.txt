@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\Operators\Operators\bin\Debug\Operators.exe.config
+E:\C#\5_4_2023\Operators\Operators\bin\Debug\Operators.exe
+E:\C#\5_4_2023\Operators\Operators\bin\Debug\Operators.pdb
+E:\C#\5_4_2023\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\Operators\Operators\obj\Debug\Operators.exe
+E:\C#\5_4_2023\Operators\Operators\obj\Debug\Operators.pdb

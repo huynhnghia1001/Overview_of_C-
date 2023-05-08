@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\bin\Debug\varibles_and_data_types.exe.config
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\bin\Debug\varibles_and_data_types.exe
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\bin\Debug\varibles_and_data_types.pdb
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\obj\Debug\varibles_and_data_types.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\obj\Debug\varibles_and_data_types.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\obj\Debug\varibles_and_data_types.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\obj\Debug\varibles_and_data_types.exe
+E:\C#\5_4_2023\varibles_and_data_types\varibles_and_data_types\obj\Debug\varibles_and_data_types.pdb

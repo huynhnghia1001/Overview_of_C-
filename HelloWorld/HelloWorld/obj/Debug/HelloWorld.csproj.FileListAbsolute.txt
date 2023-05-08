@@ -1,0 +1,8 @@
+E:\C#\5_4_2023\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\C#\5_4_2023\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\C#\5_4_2023\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\C#\5_4_2023\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\C#\5_4_2023\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+E:\C#\5_4_2023\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\C#\5_4_2023\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\C#\5_4_2023\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
